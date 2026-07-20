@@ -29,9 +29,9 @@ Predict whether a passenger survived the Titanic disaster based on features like
 
 | Model | Cross-Validated Accuracy |
 |---|---|
-| Logistic Regression | _add your number_% |
-| Random Forest | _add your number_% |
-| XGBoost | _add your number_% |
+| Logistic Regression |  80.45% |
+| Random Forest | 81.01% |
+| XGBoost | 79.33% |
 
 **Best model:** _add model name_
 **Kaggle Leaderboard Score:** **0.77**
