@@ -33,7 +33,7 @@ Predict whether a passenger survived the Titanic disaster based on features like
 | Random Forest | 81.01% |
 | XGBoost | 79.33% |
 
-**Best model:** _add model name_
+**Best model:** XGBoost
 **Kaggle Leaderboard Score:** **0.77**
 
 **Key insight:** Gender and passenger class were the strongest predictors of survival, consistent with the historical "women and children first" evacuation protocol and lifeboat proximity for upper-class cabins.
