@@ -29,9 +29,9 @@ Predict whether a passenger survived the Titanic disaster based on features like
 
 | Model | Cross-Validated Accuracy |
 |---|---|
-| Logistic Regression |  80.45% |
-| Random Forest | 81.01% |
-| XGBoost | 79.33% |
+| Logistic Regression | 79.91% |
+| Random Forest | 82.04% |
+| XGBoost | 83.95% |
 
 **Best model:** XGBoost
 **Kaggle Leaderboard Score:** **0.77**
@@ -50,3 +50,16 @@ Predict whether a passenger survived the Titanic disaster based on features like
 4. `submission.csv` is generated automatically at the end, ready for Kaggle submission
 
 ## 📁 Repository Structure
+```
+Titanic-Survival-Prediction/
+├── README.md
+├── Titanic_Survival_Prediction.ipynb
+└── requirements.txt
+```
+## 👤 Author
+
+**Vanshika**
+B.Sc. Data Science Graduate | Aspiring Data Analyst / Data Scientist
+
+📍 Mumbai, India
+🔗 [LinkedIn](www.linkedin.com/in/vanshikapalav) · [GitHub](https://github.com/Vanshik12)
